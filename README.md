@@ -9,5 +9,4 @@
 Give a ⭐ if you like this website!
 
 # Contributors
-
 - [Maryna Goloborodko] (https://github.com/maryna-gol)
